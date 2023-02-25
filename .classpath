@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/cucumber-gherkin-6.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/cucumber-java-6.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/cucumber-reporting-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/json-20201115.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/junit-4.13-beta-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punjr/Downloads/JAR FILES/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
